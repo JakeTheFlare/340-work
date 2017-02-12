@@ -1,0 +1,15 @@
+Name: Jacob C. Williams
+Date: February 1st, 2017
+
+This is my first text document for MART 340 - Web Development.
+
+I added a new line to this file in my text editor!!!!
+I added another line!!!
+
+And another!...
+And another!...
+
+This line was added to test out my Git GUI Application!
+
+Thank you.
+THE END
