@@ -14,7 +14,7 @@
 - I went to my sister's softball game this weekend, and I just thought up this idea about my own dog when I was imagining of something exciting to happen.  (These games can get pretty boring just so you know.)
 - Whenever I got stuck or unsure about something, I went back to the course website to get a quick review, like I always do.
 
-I understood how hover elements work, the only thing I had trouble with though was creating a hover element that changes to an image, like in the [example on the course website](https://montana-media-arts.github.io/mart341-webDev/modules/week-8/psuedo-classes/).  I posted the issue on the homework site, though I'm pretty sure that I'm not going to get a reply until after the due date.
+I understood how hover elements work, the only thing I had trouble with though was creating a hover element that changes into an image, like in the [example on the course website](https://montana-media-arts.github.io/mart341-webDev/modules/week-8/psuedo-classes/).  I posted the issue on the homework site, though I'm pretty sure that I'm not going to get a reply until after the due date.
 
 I helped out with one issue this week (two people having the same exact issue to be more specific).  [michealmusick](https://github.com/michaelmusick) and [gordonty](https://github.com/gordonty) were both having trouble trying to link their CSS style sheets to their HTML documents, so I shared with them an example of what I did on my project.
 
