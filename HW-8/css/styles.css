@@ -1,0 +1,98 @@
+html {
+  background-color: #9A7459;
+}
+body {
+  font-size: 12pt;
+  color: #403B3A;
+  font-family: sans-serif;
+  line-height: 1.45em;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+  padding: 8px;
+}
+p {
+  text-indent: 1.5em;
+}
+h1 {
+  font-family: Old_Englished_Boots;
+  font-size: 120pt;
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+}
+h2 {
+  font-size: 33pt;
+  text-align: left;
+  font-family: BabelSans-Bold;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+}
+h3 {
+  font-size: 12pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+  text-transform: capitalize;
+}
+h4 {
+  font-size: 12pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: #E4B288;
+  text-align: left;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+  text-transform: capitalize;
+}
+.main-container {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #403B3A;
+}
+.header {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #403B3A;
+  background-color: #A0522D;
+  text-decoration: underline;
+}
+.date{
+  border-style: solid;
+  border-width: 2px;
+  border-color: #403B3A;
+  background-color: #E8C19D;
+  text-align: center;
+}
+.article{
+  border-style: solid;
+  border-width: 2px;
+  border-color: #403B3A;
+  background-color: #E8C19D;
+  text-align: justify;
+  padding: 12px;
+}
+.text-element::first-letter {
+  color: #9A7459;
+  font-size: 20pt;
+}
+.hover-element {
+    font-size: 12pt;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #403B3A;
+    background-color: #E8C19D;
+    color: #403B3A;
+    text-align: center;
+}
+.hover-element:hover {
+    font-size: 5em;
+    color: brown;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.2em;
+    word-spacing: 1px;
+    padding: 14px;
+}
