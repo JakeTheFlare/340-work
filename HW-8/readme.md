@@ -8,7 +8,7 @@
 - Learned how to use new elements like; psuedo-classes and the span element.
 
 ## Work Process:
-- To make the title of my fictional newspaper and title of my story pop out more, I made use of elements like; font-size, text-decoration, background-color, some unique font-families, and mostly the span element.
+- To make the title of my fictional news-report and title of my story pop out more, I made use of elements like; font-size, text-decoration, background-color, some unique font-families, and mostly the span element.
 - For my color scheme, I used a palette consisting of some tints and shades of brown and tan I found on another website.  Two main reasons were because I wanted to make the webpage look like an actual newspaper article, and because I kind of prefer warm color schemes.
 - My choices for text-align, text-indent, line-height, letter-spacing, and word-spacing were all based off of what I have viewed on other newspapers for examples.
 - I went to my sister's softball game this weekend, and I just thought up this idea about my own dog when I was imagining of something exciting to happen.  (These games can get pretty boring just so you know.)
