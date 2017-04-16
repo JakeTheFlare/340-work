@@ -1,0 +1,122 @@
+html {
+  background-color: #9A7459;
+}
+
+body {
+  font-size: 10pt;
+  color: black;
+  font-family: sans-serif;
+  line-height: 1.45em;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+  padding: 8px;
+}
+
+h1 {
+  font-family: Brush Script Std;
+  font-size: 50pt;
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+}
+
+h2 {
+  font-size: 33pt;
+  text-align: left;
+  font-family: BabelSans-Bold;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+}
+
+h4 {
+  font-size: 20pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.1em;
+  word-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.main-container {
+  min-width: 300px;
+  max-width:  528px;
+}
+
+.header {
+  min-width: 300px;
+  max-width:  528px;
+  border-style: solid;
+  border-width: 2px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background-color: #A0522D;
+  line-height: 5em;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.nav {
+  font-size: 12pt;
+  min-width: 300px;
+  max-width:  528px;
+  height: 123px;
+  border-style: solid;
+  border-width: 2px;
+  background-color: white;
+  text-align: left;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  padding: 20px;
+  padding-right: 100px;
+}
+
+.nav ul li {
+  list-style-type: none;
+  display: inline;
+  background-color: white;
+  padding: 2px;
+  overflow: hidden;
+}
+
+.nav ul li:hover {
+  background-color: gray;
+  font-size: 15pt;
+}
+
+.page_content {
+  min-width: 300px;
+  max-width:  528px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #403B3A;
+  background-color: #E8C19D;
+  text-align: justify;
+  float: inherit;
+  margin-top: -100px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.footer {
+  min-width: 300px;
+  max-width:  528px;
+  border-style: solid;
+  border-width: 2px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color: #A0522D;
+  text-align: center;
+}
