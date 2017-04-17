@@ -3,7 +3,7 @@ html {
 }
 
 .main-container {
-  min-width: 253px;
+  min-width: 528px;
   max-width: 1000px;
 }
 
@@ -56,14 +56,14 @@ html {
   padding-right: 12px;
 }
 
-@media screen and (min-width: 253px) {
+@media screen and (min-width: 500px) {
                                        .content_1 {
                                                     width: 50%;
                                                     order: 1;}
                                        .content_2 {
                                                     width: 50%;
-                                                  order: 1;}
+                                                    order: 1;}
                                        .content_3 {
                                                     width: 50%;
-                                                  order: 1;}
-                                                                    }
+                                                    order: 1;}
+                                                                
