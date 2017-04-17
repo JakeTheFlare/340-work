@@ -3,8 +3,8 @@ html {
 }
 
 .main-container {
-  min-width: 528px;
-  max-width: 1000px;
+  min-width: 500px;
+  max-width: 500px;
 }
 
 .content_1 {
@@ -66,4 +66,4 @@ html {
                                        .content_3 {
                                                     width: 50%;
                                                     order: 1;}
-                                                                
+                                                              
