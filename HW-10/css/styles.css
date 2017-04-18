@@ -4,7 +4,7 @@ html {
 
 .main-container {
   flex-wrap: wrap;
-  max height: 783px;
+  max-height: 783px;
 }
 
 .content_1 {
