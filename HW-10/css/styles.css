@@ -3,7 +3,7 @@ html {
 }
 
 .main-container {
-  flex-wrap: wrap;
+  display: flex;
   max height: 783px;
 }
 
