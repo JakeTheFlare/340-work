@@ -3,7 +3,78 @@ html {
 }
 
 .main-container {
-  display: flex;
+  displahtml {
+  background-color: #4E6172;
+}
+
+.main-container {
+  flex-wrap: wrap;
+  max height: 783px;
+}
+
+.content_1 {
+  font-family: sans-serif;
+  text-align: center;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background-color: #855723;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.content_2 {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #816C5B;
+  color: black;
+  margin-top: -12px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.content_3 {
+  font-family: sans-serif;
+  text-align: center;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color: #404F24;
+  color: black;
+  margin-top: -12px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+@media screen and (min-width: 1254px) {
+                                       .content_1 {
+                                                    width: 50%;
+                                                    height: 100%;
+                                                    order: 1;}
+                                       .content_2 {
+                                                    width: 50%;
+                                                    height: 100%;
+                                                    order: 1;}
+                                       .content_3 {
+                                                    width: 50%;
+                                                    height: 100%;
+                                                    order: 1;}          }
+y: flex;
   flex-wrap: wrap;
   max height: 783px;
 }
