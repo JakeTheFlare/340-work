@@ -6,9 +6,9 @@
 - The secondary content of my page just tells a little about RWD and how wireframes play a role in it.
 
 ## Sketches:
-![Small Sketch](Mobile.jpeg)
-![Medium Sketch](Tablet.jpeg)
-![Large Sketch](Computer.jpeg)
+![Small Sketch](imgs/Mobile.jpeg)
+![Medium Sketch](imgs/Tablet.jpeg)
+![Large Sketch](imgs/Computer.jpeg)
 
 ## Work Process:
 - I went with the earthly color palette I chose because I thought it was an interesting and beautiful color scheme, no specific reason really.
