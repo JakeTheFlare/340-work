@@ -5,7 +5,7 @@ html {
 .main-container {
   display: flex;
   flex-wrap: wrap;
-  max height: 522px;
+  max height: 902px;
 }
 
 .content_1 {
@@ -57,7 +57,7 @@ html {
   padding-right: 12px;
 }
 
-@media screen and (min-width: 253px) {
+@media screen and (min-width: 634px) {
                                        .content_1 {
                                                     width: 50%;
                                                     order: 1;}
