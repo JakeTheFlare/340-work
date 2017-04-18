@@ -60,11 +60,14 @@ html {
 @media screen and (min-width: 1254px) {
                                        .content_1 {
                                                     width: 50%;
+                                                    height: 100%;
                                                     order: 1;}
                                        .content_2 {
-                                                    width: 50%;
+                                                     width: 50%;
+                                                    height: 100%;
                                                     order: 1;}
                                        .content_3 {
                                                     width: 50%;
+                                                    height: 100%;
                                                     order: 1;}
                                                         
