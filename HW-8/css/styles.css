@@ -112,14 +112,14 @@ h4 {
 
 @font-face {
     font-family: 'Old_Englished_Boots';
-    src: url('..fonts/Old_Englished_Boots.ttf') format('truetype');
+    src: url('Old_Englished_Boots.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BabelSans-Bold';
-    src: url('..fonts/BabelSans-Bold.ttf') format('truetype');
+    src: url('BabelSans-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
