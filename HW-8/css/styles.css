@@ -17,20 +17,18 @@ p {
 }
 
 h1 {
-  src:url(Old_Englished_Boots.ttf) format('truetype');
+  font-family: "Old_Englished_Boots";
   font-size: 120pt;
   text-align: center;
-  font-family: 'Old_Englished_Boots';
   font-variant: small-caps;
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
 
 h2 {
-  src:url(BabelSans-Bold.ttf) format('truetype');
   font-size: 33pt;
   text-align: left;
-  font-family: 'BabelSans-Bold';
+  font-family: "BabelSans-Bold";
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
@@ -110,4 +108,18 @@ h4 {
     letter-spacing: 0.2em;
     word-spacing: 1px;
     padding: 14px;
+}
+
+@font-face {
+    font-family: 'Old_Englished_Boots';
+    src: url('..fonts/Old_Englished_Boots.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BabelSans-Bold';
+    src: url('..fonts/BabelSans-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
