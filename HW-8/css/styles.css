@@ -17,7 +17,7 @@ p {
 }
 
 h1 {
-  font-family: 'Old_Englished_Boots';
+  font-family: "Old_Englished_Boots";
   font-size: 120pt;
   text-align: center;
   font-variant: small-caps;
@@ -28,7 +28,7 @@ h1 {
 h2 {
   font-size: 33pt;
   text-align: left;
-  font-family: 'BabelSans-Bold';
+  font-family: "BabelSans-Bold";
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
