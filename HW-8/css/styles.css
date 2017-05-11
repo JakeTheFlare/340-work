@@ -20,6 +20,7 @@ h1 {
   src:url(Old_Englished_Boots.ttf) format('truetype');
   font-size: 120pt;
   text-align: center;
+  font-family: 'Old_Englished_Boots';
   font-variant: small-caps;
   letter-spacing: 0.1em;
   word-spacing: 1px;
@@ -29,6 +30,7 @@ h2 {
   src:url(BabelSans-Bold.ttf) format('truetype');
   font-size: 33pt;
   text-align: left;
+  font-family: 'BabelSans-Bold';
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
