@@ -1,6 +1,7 @@
 html {
   background-color: #9A7459;
 }
+
 body {
   font-size: 12pt;
   color: #403B3A;
@@ -10,24 +11,28 @@ body {
   word-spacing: 1px;
   padding: 8px;
 }
+
 p {
   text-indent: 1.5em;
 }
+
 h1 {
-  font-family: Old_Englished_Boots;
+  font-family: 'Old_Englished_Boots';
   font-size: 120pt;
   text-align: center;
   font-variant: small-caps;
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
+
 h2 {
   font-size: 33pt;
   text-align: left;
-  font-family: BabelSans-Bold;
+  font-family: 'BabelSans-Bold';
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
+
 h3 {
   font-size: 12pt;
   font-family: sans-serif;
@@ -36,6 +41,7 @@ h3 {
   word-spacing: 1px;
   text-transform: capitalize;
 }
+
 h4 {
   font-size: 12pt;
   font-family: sans-serif;
@@ -46,11 +52,13 @@ h4 {
   word-spacing: 1px;
   text-transform: capitalize;
 }
+
 .main-container {
   border-style: solid;
   border-width: 2px;
   border-color: #403B3A;
 }
+
 .header {
   border-style: solid;
   border-width: 2px;
@@ -58,6 +66,7 @@ h4 {
   background-color: #A0522D;
   text-decoration: underline;
 }
+
 .date{
   border-style: solid;
   border-width: 2px;
@@ -65,6 +74,7 @@ h4 {
   background-color: #E8C19D;
   text-align: center;
 }
+
 .article{
   border-style: solid;
   border-width: 2px;
@@ -73,10 +83,12 @@ h4 {
   text-align: justify;
   padding: 12px;
 }
+
 .text-element::first-letter {
   color: #9A7459;
   font-size: 20pt;
 }
+
 .hover-element {
     font-size: 12pt;
     border-style: solid;
@@ -86,6 +98,7 @@ h4 {
     color: #403B3A;
     text-align: center;
 }
+
 .hover-element:hover {
     font-size: 5em;
     color: brown;
@@ -95,4 +108,18 @@ h4 {
     letter-spacing: 0.2em;
     word-spacing: 1px;
     padding: 14px;
+}
+
+@font-face {
+    font-family: 'Old_Englished_Boots';
+    src: url('..fonts/Old_Englished_Boots.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BabelSans-Bold';
+    src: url('..fonts/BabelSans-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
