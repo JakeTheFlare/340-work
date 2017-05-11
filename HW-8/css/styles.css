@@ -17,7 +17,7 @@ p {
 }
 
 h1 {
-  font-family: "Old_Englished_Boots";
+  font-family: 'Old_Englished_Boots';
   font-size: 120pt;
   text-align: center;
   font-variant: small-caps;
@@ -28,7 +28,7 @@ h1 {
 h2 {
   font-size: 33pt;
   text-align: left;
-  font-family: "BabelSans-Bold";
+  font-family: 'BabelSans-Bold';
   letter-spacing: 0.1em;
   word-spacing: 1px;
 }
@@ -112,14 +112,14 @@ h4 {
 
 @font-face {
     font-family: 'Old_Englished_Boots';
-    src: url('..fonts/Old_Englished_Boots.ttf') format('truetype');
+    src: url('..fonts/Old_Englished_Boots.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BabelSans-Bold';
-    src: url('..fonts/BabelSans-Bold.ttf') format('truetype');
+    src: url('..fonts/BabelSans-Bold.ttf');
     font-weight: normal;
     font-style: normal;
 }
