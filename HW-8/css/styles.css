@@ -110,12 +110,5 @@ h4 {
     padding: 14px;
 }
 
-@font-face {
-    font-family: 'Old_Englished_Boots';
-    src: url('./fonts/Old_Englished_Boots.ttf')
-}
-
-@font-face {
-    font-family: 'BabelSans-Bold';
-    src: url('./fonts/BabelSans-Bold.ttf')
-}
+@import url('..fonts/Old_Englished_Boots.ttf');
+@import url('..fonts/BabelSans-Bold.ttf');
